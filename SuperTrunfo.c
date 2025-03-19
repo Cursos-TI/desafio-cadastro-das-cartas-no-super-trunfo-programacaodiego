@@ -13,3 +13,5 @@ printf ("PIB 699.28 bilhões de reais \n");
 printf ("Número de Pontos Turísticos 50 \n");
 
 }
+
+
